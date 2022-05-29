@@ -8,7 +8,7 @@
 На вход принимается колличество солдат в шеренге - <n>
 
 Нахождение колличества неправильных шеренг происходит по формуле:
-https://github.com/SagittariusRu/DM/blob/main/Ckn.png?raw=true
+![(https://github.com/SagittariusRu/DM/blob/main/Ckn.png?raw=true)]
 
 В результате выводится колличество неправильных шеренг
 
